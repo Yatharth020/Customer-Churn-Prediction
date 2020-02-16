@@ -15,8 +15,8 @@ Solving an end to end business problem requres the hypothesis to be tested ,so t
 - <img src = https://github.com/yatscool007/Customer-Churn-Prediction/blob/master/Capture.PNG height="400" width="600">
  __Advanced Feature extraction and data visualization in 2-D__:
   <br>Here We will be using PCA for feature selection and understanding the variance in the data 
-    <br>-  __Principal Component Analysis__:
+      __Principal Component Analysis__:
               <img src = https://github.com/yatscool007/Customer-Churn-Prediction/blob/master/PCA.PNG height="400" width="600">
-    <br>-  __TSNE__:
+      __TSNE__:
               <img src = https://github.com/yatscool007/Customer-Churn-Prediction/blob/master/TSNE.PNG height="400" width="600">
     
