@@ -39,3 +39,4 @@ __Logistic Regression__
 <br>For our analysis, recall will be our target metric. We care the most about capturing as many true positives (people who are likely to churn) with our model, and we’re less concerned that we may sweep in some false negatives (people who did not churn) along with them.
 
 <img src = https://github.com/yatscool007/Customer-Churn-Prediction/blob/master/results.PNG>
+- Logistic Regression perfomed best with best recall score ,though AUC score for random forest is better than the Logistic regression
